@@ -1,0 +1,30 @@
+[
+  {
+    "style": "boho",
+    "product_name": "Macrame Wall Hanging",
+    "description": "Bohemian handmade wall decor",
+    "image_url": "https://example.com/macrame.jpg",
+    "affiliate_url": "https://affiliate.com/macrame"
+  },
+  {
+    "style": "minimalist",
+    "product_name": "White Floating Shelf",
+    "description": "Clean modern wall shelf",
+    "image_url": "https://example.com/shelf.jpg",
+    "affiliate_url": "https://affiliate.com/shelf"
+  },
+  {
+    "style": "scandinavian",
+    "product_name": "Gray Sofa",
+    "description": "Soft, neutral sofa ideal for Nordic designs",
+    "image_url": "https://example.com/sofa.jpg",
+    "affiliate_url": "https://affiliate.com/sofa"
+  },
+  {
+    "style": "industrial",
+    "product_name": "Edison Bulb Lamp",
+    "description": "Rustic metal lamp with warm lighting",
+    "image_url": "https://example.com/lamp.jpg",
+    "affiliate_url": "https://affiliate.com/lamp"
+  }
+]
